@@ -42,4 +42,4 @@ The screen changes to red based on a wrong choice. You can see there is a next b
 
 This layout is designed for desktop viewing, but optimized for mobile. 
 
-URL: https://ckishel.github.io/homework4_web_api_code_quiz/
+URL: https://ckishel.github.io/homework4_web_api_code_quiz_basic/
